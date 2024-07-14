@@ -1,0 +1,32 @@
+# Ignore build output
+/build/
+
+# Ignore dependencies
+/node_modules/
+
+# Ignore IDE and editor files
+# /.vscode/
+/.idea/
+*.iml
+
+# Ignore logs
+/log/
+
+# Ignore compiled binaries
+/bin/
+/out/
+
+# Ignore temporary files
+/tmp/
+*.tmp
+
+# Ignore sensitive or personal information
+/.env
+/secrets.txt
+
+# Ignore generated documentation
+/docs/
+
+# Ignore backup files
+*.bak
+*.swp
